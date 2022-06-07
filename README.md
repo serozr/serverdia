@@ -14,6 +14,9 @@ Tada 🎉. Artık serverdia botun hazır. Dilediğin gibi kullanabilirsin.
 
 ![sunucu komutu 2](https://i.imgur.com/fLonDi7.png)
 
+![Sunucu Ready](https://i.imgur.com/Igh89BH.png)
+
+
 # İletişim
 * [Steam Profilim](https://steamcommunity.com/id/serozdmr)
 * [Discord Adresim](https://discord.com/users/317910151241924608)
