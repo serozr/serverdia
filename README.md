@@ -14,7 +14,7 @@ Tada 🎉. Artık serverdia botun hazır. Dilediğin gibi kullanabilirsin.
 
 ![sunucu komutu 2](https://i.imgur.com/fLonDi7.png)
 
-![Sunucu Ready](https://i.imgur.com/Igh89BH.png)
+![Sunucu Ready.js](https://i.imgur.com/Igh89BH.png)
 
 
 # İletişim
