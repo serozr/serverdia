@@ -2,7 +2,7 @@ local json = require("json")
 local coro = require("coro-http")
 command.Register("server", "server info", function(msg, args)
 
-local id = "15188453" -- battlemetrics server idnizi girin , input battlemetrics server id
+local id = "14926382" -- battlemetrics server idnizi girin , https://www.battlemetrics.com/servers/gmod/14926382
 local link = ("https://api.battlemetrics.com/servers/"..id) 
 local result , body = coro.request("GET", link)
 
